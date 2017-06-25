@@ -59,7 +59,6 @@
 input[type=email] {
   margin-top: 20px;
 }
-
 .btn-default {
   margin: 0 auto;
   margin-top: 100px;
@@ -68,11 +67,9 @@ input[type=email] {
   border-radius: 0px;
   border: 1px solid #626262;
 }
-
 .panel-footer {
   background-color: #f0f0f0 !important;
   border: 0px;
-
 }
 .copyright {
   float: left;
@@ -86,21 +83,17 @@ input[type=email] {
   margin-bottom: 20px;
   margin-right: 40px;
 }
-
 .clearfix::after {
     content: "";
     display: table;
     clear: both;
 }
-
 .copyright a {
   margin-right: 20px;
 }
-
 .social a {
   margin-right: 20px;
 }
-
-.social .category {
+.social .follow {
   margin-right: 20px;
 }
