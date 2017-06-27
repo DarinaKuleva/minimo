@@ -12,7 +12,13 @@
 
 .navbar-nav a {
   margin: 20px;
+color: #f0f0f0;
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+line-height: 15px;
+font-weight: 400;
 }
+
 
 .navbar-brand {
   margin-left: 90px !important;
@@ -33,6 +39,37 @@
 }
 .post-description p {
   margin-right: 35px;
+  margin-top: 35px;
+  padding-bottom: 40px;
+  color: #626262;
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+line-height: 15px;
+font-weight: 400;
+}
+.post-description h2 {
+
+  color: #626262;
+font-family: 'Playfair Display', serif;
+font-size: 30px;
+line-height: 15px;
+font-weight: 400;
+}
+.post-description span {
+
+  color: #beb8ab;
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+line-height: 15px;
+font-weight: 400;
+}
+.post-description a {
+
+  color: #beb8ab;
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+line-height: 15px;
+font-weight: 400;
 }
 
 .row-middle .post {
@@ -54,6 +91,16 @@
   background-color: #f0f0f0;
   padding-top: 50px;
   padding-bottom: 50px;
+
+}
+.sing-up h2{
+
+  color: #333333;
+
+font-family: 'Playfair Display', serif;
+font-size: 30px;
+line-height: 15px;
+font-weight: 400;
 }
 
 input[type=email] {
@@ -77,6 +124,13 @@ input[type=email] {
   margin-bottom: 20px;
   margin-left: 40px;
 }
+.copyright a{
+color: #3d3d3d;
+
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+line-height: 15px;
+font-weight: 400;}
 .social {
   float: right;
   margin-top: 20px;
@@ -96,4 +150,10 @@ input[type=email] {
 }
 .social .follow {
   margin-right: 20px;
+  color: #3d3d3d;
+
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+line-height: 15px;
+font-weight: 400;
 }
