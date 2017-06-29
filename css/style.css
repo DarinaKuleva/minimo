@@ -24,22 +24,21 @@ margin-top: 20px;
 margin-right: 100px;
 }
 .post-big .post-description {
-margin-top: 70px;
+margin-top: 50px;
 margin-left: 50px;
 margin-right: 85px;
 }
 .row-top .post {
 margin-left: 60px;
-margin-top: 120px;
+margin-top: 60px;
 }
 .post-description p {
 margin-right: 35px;
-margin-top: 35px;
-padding-bottom: 40px;
+margin-top: 20px;
 color: #626262;
 font-family: 'Playfair Display', serif;
 font-size: 14px;
-line-height: 15px;
+line-height: 24px;
 font-weight: 400;
 }
 .post-description h2 {
@@ -65,11 +64,11 @@ font-weight: 400;
 }
 .row-middle .post {
 margin-left: 60px;
-margin-top: 120px;
+margin-top: 60px;
 }
 .row-bottom .post {
 margin-left: 60px;
-margin-top: 120px;
+margin-top: 60px;
 }
 .post-description {
 margin-top: 20px;
@@ -78,7 +77,6 @@ margin-top: 20px;
 text-align: center;
 margin-top: 50px;
 background-color: #f0f0f0;
-padding-top: 50px;
 padding-bottom: 50px;
 }
 .sing-up h2{
@@ -95,7 +93,7 @@ width: 410px;
 }
 .btn-default {
 margin: 0 auto;
-margin-top: 100px;
+margin-top: 60px;
 display: block;
 margin-bottom: 20px;
 border-radius: 0px;
@@ -150,13 +148,12 @@ line-height: 15px;
 font-weight: 400;
 background-color:#f0f0f0;
 border-collapse: collapse;
+border: none;
+outline:none;
 border-bottom: 1px solid black;
-border-top: 0px ;
-border-left:  0px;
-border-right: 0px;
 padding-right: 230px;
 padding-bottom: 10px;
-padding-left: 10px
-padding-top: 40px
+padding-left: 10px;
+padding-top: 10px;
 }
 
